@@ -37,11 +37,13 @@ An AI-powered web application built with Python and Streamlit that evaluates res
 
 ## 📂 Project Structure
 
+```
 AI-Resume-Analyser/
 │
-├── App.py                # Main Streamlit app
-├── Courses.py            # Course recommendation data
-├── requirements.txt      # Python dependencies
-├── /Uploaded_Resumes     # Uploaded PDF resumes
-├── /Logo                 # Logo files
-└── README.md             # Project documentation
+├── App.py # Main Streamlit app
+├── Courses.py # Course recommendation data
+├── requirements.txt # Python dependencies
+├── /Uploaded_Resumes # Uploaded PDF resumes
+├── /Logo # Logo files
+└── README.md # Project documentation
+```
