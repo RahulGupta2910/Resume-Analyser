@@ -6,7 +6,7 @@ An AI-powered web application built with Python and Streamlit that evaluates res
 
 ## 🚀 Features
 
---📄 Resume Upload & Parsing – Upload PDF resumes for instant processing.
+📄 Resume Upload & Parsing – Upload PDF resumes for instant processing.
 
 🔍 NLP-based Skill Extraction – Uses Pyresparser, NLTK, and spaCy to extract skills and predict career fields.
 
@@ -34,3 +34,14 @@ An AI-powered web application built with Python and Streamlit that evaluates res
 - pdfminer3 – PDF reading
 - PIL – Image handling
 - pandas – Data manipulation
+
+## 📂 Project Structure
+
+AI-Resume-Analyser/
+│
+├── App.py                # Main Streamlit app
+├── Courses.py            # Course recommendation data
+├── requirements.txt      # Python dependencies
+├── /Uploaded_Resumes     # Uploaded PDF resumes
+├── /Logo                 # Logo files
+└── README.md             # Project documentation
